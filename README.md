@@ -9,5 +9,7 @@
 - Either student or the employee without login can view all the internships and if the student want to apply for a internship he can click on the apply and that will be redirected to the login page and then he can login and apply for the same.
 - The entire website is designed by materializecss.
 
--- Author:PIDUGU SUNDEEP --</br>
--- Email :pidugu.sundeep2013@vit.ac.in --
+** Do mail me if you want the sql file to create the database and the tables associated with it !
+
+-- Author : PIDUGU SUNDEEP --</br>
+-- Email  : pidugu.sundeep2013@vit.ac.in --
