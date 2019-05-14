@@ -11,5 +11,5 @@
 
 ** Do mail me if you want the sql file to create the database and the tables associated with it !
 
--- Author : PIDUGU SUNDEEP --</br>
--- Email  : pidugusundeep5@gmail.com --
+ Author : PIDUGU SUNDEEP </br>
+ Email  : pidugusundeep5@gmail.com 
