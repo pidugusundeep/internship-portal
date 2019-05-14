@@ -1,4 +1,4 @@
-# internship-portal
+# Internship-portal
 
 - This has 2 different login portals one for the student and the other for the employee and a signup portal for the same.
 - The students have the option to apply to the internships posted by the employees, and the internships which are already applied are shown as applied and the rest are with the apply.
@@ -12,4 +12,4 @@
 ** Do mail me if you want the sql file to create the database and the tables associated with it !
 
 -- Author : PIDUGU SUNDEEP --</br>
--- Email  : pidugu.sundeep2013@vit.ac.in --
+-- Email  : pidugusundeep5@gmail.com --
